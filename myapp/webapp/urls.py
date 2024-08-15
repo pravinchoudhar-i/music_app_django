@@ -6,5 +6,6 @@ urlpatterns = [
     
     path('',views.Lenovo),
     path('temp-us/',views.Temp),
+    
    
 ]
